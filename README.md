@@ -4,6 +4,16 @@
 
 > **Transform your visual creativity.** Extract the photographic DNA from any image and apply it to entirely new subjects—preserving lighting, mood, and atmosphere with precision.
 
+
+<img width="791" height="1218" alt="image" src="https://github.com/user-attachments/assets/1f55b5f0-80ca-4690-ad9f-b40d8be77992" />
+
+
+<img width="769" height="1234" alt="image" src="https://github.com/user-attachments/assets/6994f684-3e7b-4781-8d83-b8fd00f262be" />
+
+<img width="777" height="905" alt="image" src="https://github.com/user-attachments/assets/b6c49f62-a4cd-47b7-a54d-9913829c607d" />
+
+
+
 ---
 
 ## ✨ What is FIBO Studio?
@@ -163,15 +173,19 @@ npm run dev
 ## 📸 Screenshots
 
 ### Style Extractor
-![Style Extractor Interface](docs/images/style-extractor.png)
+<img width="1221" height="893" alt="image" src="https://github.com/user-attachments/assets/050530c9-aabe-4fc3-8178-60dc318899a0" />
+)
 *Upload reference images and extract their visual DNA*
 
 ### Image Generator
-![Image Generator Interface](docs/images/image-generator.png)
+<img width="1253" height="911" alt="image" src="https://github.com/user-attachments/assets/654c1aba-5206-4f15-be64-6c01eba14b9e" />
+
 *Generate new images with your extracted style profiles*
 
 ### Style DNA Visualization
-![Style DNA Parser](docs/images/style-dna.png)
+<img width="1253" height="911" alt="image" src="https://github.com/user-attachments/assets/342aa44c-7eaf-4c48-879f-eca98cd228b7" />
+
+
 *See exactly what attributes are captured and applied*
 
 ---
@@ -223,16 +237,7 @@ We welcome contributions! Whether it's:
 - **[Tailwind CSS](https://tailwindcss.com/)** - CSS framework
 - **[Framer Motion](https://www.framer.com/motion/)** - Animation library
 
----
 
-## 💬 Support & Community
-
-- 📧 **Email**: [support@bria.ai](mailto:support@bria.ai)
-- 📖 **Documentation**: [docs.bria.ai](https://docs.bria.ai/)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/tchauvel/bria-fibo-studio/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/tchauvel/bria-fibo-studio/discussions)
-
----
 
 <div align="center">
 
